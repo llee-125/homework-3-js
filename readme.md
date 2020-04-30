@@ -1,9 +1,8 @@
 ## Password Generator
-Create an application that generates a random password based on user-selected criteria (numbers, lc letters, up letters and numbers). This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+This is an application that generates a random password based on user-selected criteria (numbers, lc letters, up letters and numbers). This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
 
 ## User Story
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+Password Generator will allow me to practice functions for loops and a full app. I need more practice.
 
 ## Acceptance Criteria
 GIVEN I need a new, secure password
@@ -20,16 +19,17 @@ THEN my input should be validated and at least one character type should be sele
 WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+THEN the password is either displayed is written to the page
+AND all input is available on console.log for validation
 
 ## Features
 * Used Alerts to ask the questions of what digits are requested within the password.
 * Console.log all input
 * Minimal decor on page
+* Tried to add a clear password button, need more direction--to come.
 
 ## Improvements Needed
-* Password is not generating, need help with code.
-* Test on password character limitations if running through Alerts more than 1 time.
+* Add 2 buttons "hide" and "show" to toggl the password on the screen, while keeping password visable on console.log.
 
 ## Contact Info.
 * Louise Lee
@@ -37,5 +37,6 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Credits
 * Danielle Arias--shared code to help me through coding issues.
+* Hannah Folk--my amazing tutor.
 * TAs
 

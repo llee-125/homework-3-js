@@ -14,7 +14,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-color: deepskyblue;
 }
 
 .wrapper {
@@ -135,6 +135,13 @@ button {
     font-size: 0.8rem;
   }
 }
+
+h1 {
+  color: maroon;
+  font-weight: 1900;
+  font-weight: bolder;
+  font-style: italic;
+
 h3 {
   color: brown;
-}
+};
